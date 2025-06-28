@@ -19,12 +19,6 @@ An elegant and fully functional React-based Online Library System that allows us
 
 ---
 
-## 🖼️ Preview
-
-![App Screenshot](https://via.placeholder.com/800x400?text=Insert+Screenshot+Here)
-
----
-
 ## 📂 Project Structure
 
 src/
@@ -34,6 +28,19 @@ src/
 ├── App.jsx # Main app and routing
 └── main.jsx # Entry point with Redux Provider
 
+
+---
+
+## 🖼️ Screenshots
+
+### 🔹 Home Page
+![Home Page](/src/screenshots/home.png)
+
+### 🔹 Browse Books
+![Browse Books](/src/screenshots/browseBooks.png)
+
+### 🔹 Add Book
+![Add Book](/src/screenshots/addBooks.png)
 
 ---
 
